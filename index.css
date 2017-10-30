@@ -10,7 +10,7 @@ This site is for educational purposes in connection with the Girl Scouts of West
 ---------------------------*/
 body {
   font-family: Arial, sans-serif;
-  background-color: #009999;
+  background-color: #007290;
   padding: 40px;
   font-size: 16px;
   line-height: 26px;
@@ -71,7 +71,7 @@ p:last-child {
   padding: 0 20px;
 }
 .site-navigation a:hover {
-  color: #4cacbe;
+  color: #007290;
 }
 
 @media (min-width: 800px) {
