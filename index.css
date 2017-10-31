@@ -98,6 +98,10 @@ p:last-child {
   padding: 40px;
 }
 
+.center {
+	 style="text-align:center";
+}
+
 @media (min-width: 800px) {
   .site-footer {
     clear: both;
